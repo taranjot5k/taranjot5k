@@ -6,10 +6,6 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://github.com/taranjot5k)
 [<img src="https://img.shields.io/badge/Resume-%23000000.svg?&style=for-the-badge">](https://github.com/taranjot5k/taranjot5k/files/12775701/Taranjot_Resume.pdf)
 
-
-
-<br/>
-
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -21,4 +17,4 @@
 
 ### 🛠 Tools and Frameworks
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
