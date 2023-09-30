@@ -2,17 +2,10 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/taranjot-kalkat-090248212/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://github.com/taranjot5k)
-<!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+[<img src="https://img.shields.io/badge/Resume-%23000000.svg?&style=for-the-badge">](https://github.com/taranjot5k/taranjot5k/files/12775689/TaranjotK_Resume.pdf)
 
-Here are some ideas to get you started:
-- :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
-- 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Vuejs and Python
-- 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Vuejs 
-- 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Play PUBG when get bored
+
+
 <br/>
 
 ### Languages and Tools:
