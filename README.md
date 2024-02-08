@@ -4,7 +4,8 @@
 ### 🔗 Links
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/taranjot-kalkat-090248212/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://github.com/taranjot5k)
-[<img src="https://img.shields.io/badge/Resume-%23000000.svg?&style=for-the-badge">](file:///Users/taranjotkalkat/Downloads/TaranjotK_Resume.3.pdf)
+[<img src="https://img.shields.io/badge/Resume-%23000000.svg?&style=for-the-badge">](https://github.com/taranjot5k/taranjot5k/files/14214530/TaranjotK_Resume.3.pdf)
+)
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
