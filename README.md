@@ -6,5 +6,4 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://github.com/taranjot5k)
 [<img src="https://img.shields.io/badge/Resume-%23000000.svg?&style=for-the-badge">](https://github.com/user-attachments/files/16534334/KALKAT_TARANJOT_Resume.pdf)
 
-![Contributions](https://github.com/mahfoozm/taranjot5k/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Contributions](https://github.com/mahfoozm/taranjot5k/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
