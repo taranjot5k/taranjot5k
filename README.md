@@ -1,4 +1,4 @@
-# Hi, I'm Taranjot Kalkat 👋
+#👋
 
 
 ### 🔗 Links
